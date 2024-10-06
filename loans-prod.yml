@@ -2,10 +2,10 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to EazyBank Loans related Production APIs"
+ message: "Welcome to EazyBank Loans related PRODUCTION APIs"
  contactDetails:
   name: "Ricardo Reis - Product Owner"
-  email: "dzrrcreations@gmail.com"
+  email: "{cipher}228f1bd3ecbe88d92c451bf039569cbda9eb5051bee9afc44301f914315f500f5c07fad468e819192e3ce8a712751f90"
  onCallSupport:
   - (+351) 911222333
   - (+351) 211222333
