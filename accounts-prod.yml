@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to EazyBank Accounts APIs related to Production Environment"
+ message: "Welcome to EazyBank Accounts APIs related to Production Environment test"
  contactDetails:
   name: "Ricardo Reis - Product Owner"
   email: "{cipher}228f1bd3ecbe88d92c451bf039569cbda9eb5051bee9afc44301f914315f500f5c07fad468e819192e3ce8a712751f90"
