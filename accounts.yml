@@ -1,8 +1,8 @@
 build:
- version: "3.0"
+ version: "3.1"
  
 accounts:
- message: "Welcome to EazyBank Accounts related local APIs teste"
+ message: "Welcome to EazyBank Accounts related local APIs"
  contactDetails:
   name: "Ricardo Reis - Developer"
   email: "dzrrcreations@gmail.com"
